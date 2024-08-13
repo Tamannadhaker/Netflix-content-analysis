@@ -17,3 +17,5 @@ Uncover the genres that captivate viewers! From the thought-provoking depth of *
 ## 🔍 Detailed Title Insights
 
 Each title tells a story, and our dashboard provides detailed insights into every single one—perfect for both casual viewers and data enthusiasts looking to dive deeper into Netflix's offerings.
+
+![Netflix_Dashboard_image](https://github.com/user-attachments/assets/a21d684d-83b0-4645-9ee6-52e68bdecaaa)
